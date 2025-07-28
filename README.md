@@ -25,6 +25,15 @@
 - I designed 3 DashBoards  [ Dashboard Of Home / Dashboard Of Product / Dashboard Of Territory ].
 
 
+![Home](https://github.com/user-attachments/assets/965fcaa1-e571-420f-87f8-0c4bfc3ef885)
+
+
+![Product](https://github.com/user-attachments/assets/b4c01676-5beb-471b-a8d1-a509572a7a42)
+
+
+![Territory](https://github.com/user-attachments/assets/47f1e02e-16bb-4428-a726-27137ed6035d)
+
+
 ## Features
 - #### Dynamic Slicers : 
     - Filter data by Years , Months , Status.
@@ -87,23 +96,6 @@
 ## Contact
 
  ##### If you want to ask me any question or you can write a feedback, reach out via [linkedin](https://www.linkedin.com/in/dina-abdelrahman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or (dinaabdalrahman7@gmail.com)
-
-
-## Screenshot
-### Here’s a screenshot of the Sales Analysis Dashboard:
-
-![Home](https://github.com/user-attachments/assets/965fcaa1-e571-420f-87f8-0c4bfc3ef885)
-
-
-![Product](https://github.com/user-attachments/assets/b4c01676-5beb-471b-a8d1-a509572a7a42)
-
-
-![Territory](https://github.com/user-attachments/assets/47f1e02e-16bb-4428-a726-27137ed6035d)
-
-
-
-
-
 
 
 
