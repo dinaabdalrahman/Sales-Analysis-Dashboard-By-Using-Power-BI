@@ -73,7 +73,13 @@
 
 
 
- 
+ ## Recommendations
+
+
+- Any means of advertising must be available to other categories in order to increase income.
+- The country that has a large number of a certain product must increase its number.
+- Make offers for the categories that are not working with the categories that are working, so people know about other products.
+  
 
 
 
