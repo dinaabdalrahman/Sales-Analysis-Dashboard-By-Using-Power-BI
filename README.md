@@ -39,12 +39,12 @@
     - Filter data by Years , Months , Status.
       
 - #### Key Metrics include :-
-    - Orders Card : 174
-    - Order Details Card : 3K
-    - Total Subtotal Card :4.24M
-    - Total Tax Card : 415.83 K
-    - Total Freight Card : 129.95K
-    - Total Due Card : 4.87M
+    - Orders  : 174
+    - Order Details  : 3K
+    - Total Subtotal  :4.24M
+    - Total Tax  : 415.83 K
+    - Total Freight : 129.95K
+    - Total Due  : 4.87M
     
       
 
