@@ -1,5 +1,5 @@
 # Sales-Analysis-Dashboard-By-Using-Power-BI
-# Sales Analysis DashBoard
+
 
 ## overview
 #### This repository contains an interactive Sales Analysis DashBoard designed in Power Bi and using Power Query to clean data and build Fact tables and Dimension Tables , Sales data  from 2011 and 2014. The dashboard provides insights Product , Product category , Status , Orders and ShipMethods,they help to take decisions.
@@ -39,57 +39,41 @@
     
       
 
-   
+ ## Charts and Their Purpose 
+
+ ### 1)  The Ratio Of  Territory In Each Territory Group (Doughnut Chart) 
+ - #### Insights : 
+   - ##### ( The highest Territory Group is North America over the course of the 4 years
+     and in 2013 for the year in entering orders during certain months, then it began to decline in 2014 except for two months ).
+
+### 2)  The Ratio Of Total Tax For Each Territory Group  (Doughnut Chart) 
+ - #### Insights : 
+   - ##### ( The highest Territory Group for Total Tax is North America over the past 4 years,
+     and 2013 was the highest year for Total Tax during certain months, then it began to decline in 2014.).
+### 3) Number Of Orders by Status (Bar Chart) 
+ - #### Insights : 
+   - ##### ( The number of orders for each status was highest in 2013, with either approved or in processing, and the minority cancelled.).
+### 4)  Number Of  Orders and Total Due by Territory 
+ - #### Insights : 
+   - ##### ( Total Due by Territory and number of orders were high in 2013 with 708 orders and Total Due at 16M ).
+### 5) Number Of  Orders For Each Category (Doughnut Chart)
+ - #### Insights : 
+   - ##### ( The largest category in terms of number of orders is Bikes, followed by Components.
+     There was an increase in orders over the 4 years, but there was a decline in 2014,
+     reaching 340 orders compared to the previous year, which had 708 orders. ).
+### 6)  Total Tax For Each Category (Line Chart) 
+ - #### Insights : 
+   - ##### ( The bikes category is the highest category in terms of total tax, but it has been up and down,
+      and in 2014 the rate decreased compared to the previous year ).
+
+### 7)  Number Of Orders by Date (Line Chart) 
+ - #### Insights : 
+   - ##### ( The largest year in which orders were sold was 2013, and the increase occurred in the last months of the year.).
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
