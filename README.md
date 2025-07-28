@@ -92,11 +92,14 @@
 ## Screenshot
 ### Here’s a screenshot of the Sales Analysis Dashboard:
 
-##![Home](https://github.com/user-attachments/assets/eb2824b2-4364-4519-a137-c1aa0994a488)
+![Home](![Home](https://github.com/user-attachments/assets/965fcaa1-e571-420f-87f8-0c4bfc3ef885)
 
-![Product](https://github.com/user-attachments/assets/6839c8ac-cecb-46c8-966d-a4dc25d17d98)
 
-![Territory](https://github.com/user-attachments/assets/16901b92-6339-4122-844c-008638fdc8a7)
+![Product](![Product](https://github.com/user-attachments/assets/b4c01676-5beb-471b-a8d1-a509572a7a42)
+
+
+![Territory](![Territory](https://github.com/user-attachments/assets/47f1e02e-16bb-4428-a726-27137ed6035d)
+
 
 
 
